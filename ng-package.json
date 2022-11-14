@@ -1,6 +1,0 @@
-{
-    "dest": "./dist/@iotize/device-com-nfc.cordova",
-    "lib": {
-        "entryFile": "src/public_api.ts"
-    }
-}

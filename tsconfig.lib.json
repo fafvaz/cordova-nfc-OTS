@@ -1,6 +1,0 @@
-{
-  "extends": "./tsconfig-cordovalib.tmp.json",
-  "compilerOptions": {
-    "outDir": "dist"
-  }
-}

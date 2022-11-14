@@ -8,13 +8,3 @@ Makefile
 *.iml
 .project
 out/
-node_modules
-demo
-generated
-.vscode
-
-src/android/.gradle
-.nycoutput
-test-reports
-*.tmp.json
-tmp
